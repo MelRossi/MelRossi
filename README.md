@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Sobre mí
-Apasionada por transformar datos en decisiones inteligentes.  
+Graduada del Bootcamp de Henry y apasionada por transformar datos en decisiones inteligentes.  
 Mi objetivo es analizar, modelar y comunicar información de forma clara y accionable, aportando valor real a proyectos y equipos.
 
 Actualmente me especializo en:
@@ -37,33 +37,13 @@ Me motiva la curiosidad, el aprendizaje continuo y el deseo de resolver problema
 **Otros:**  
 `Git` • `GitHub` • `Excel Avanzado` • `Google Sheets`
 
----
-
-## 📂 Proyectos Destacados
-
-### 🔶 **NBA Performance Analytics – Data Science Project**
-Análisis avanzado del rendimiento de jugadores NBA a través de EDA, clustering y regresión.  
-Incluye ETL, métricas avanzadas, RMO, dashboards en Power BI y un **MVP interactivo en Streamlit**.
-
-🔗 *Repositorio:* (agregá tu link)  
-🔗 *App en Streamlit:* (agregá tu link)
-
----
-
-### 🔷 **Otros Proyectos del Bootcamp**
-- ETL y análisis estadístico con Python  
-- Dashboards profesionales en Power BI  
-- SQL y modelado relacional  
-- Automatización de análisis en Google Cloud  
-
-*(Podés agregar más cuando quieras)*
 
 ---
 
 ## 📬 Contacto
 
-💼 **LinkedIn:** https://www.linkedin.com/in/tu-perfil  
-📧 **Email:** tunombre@gmail.com  
+💼 **LinkedIn:** [https://www.linkedin.com/in/tu-perfil ](https://www.linkedin.com/in/melisa-rossi-lagger/) 
+📧 **Email:** melirossi.mr@gmail.com  
 📁 **Portfolio:** (si querés, después te armo uno)
 
 ---
