@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 ¡Hola! Soy Melisa Rossi  
+# Soy Melisa Rossi  
 ### Data Analyst | Data Scientist Jr | Python • SQL • Power BI • Machine Learning
 
 ---
