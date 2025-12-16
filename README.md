@@ -32,7 +32,7 @@ Me motiva la **curiosidad**, el **aprendizaje continuo** y el deseo de **resolve
 
 ## 📬 Contacto
 
-💼 **LinkedIn:** [https://www.linkedin.com/in/tu-perfil ](https://www.linkedin.com/in/melisa-rossi-lagger/) 
+💼 **LinkedIn:** [https://www.linkedin.com/in/tu-perfil ](https://www.linkedin.com/in/melirossi/) 
 📧 **Email:** melirossi.mr@gmail.com  
 
 ---
